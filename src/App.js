@@ -26,7 +26,6 @@ export default function App() {
     </div>
     </div>
   <footer className="foot" style={{color:"transparent"}}>
-    HOwdy Nehibor!
   </footer>
   </div>
   );

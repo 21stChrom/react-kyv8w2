@@ -9,7 +9,7 @@ export default function App() {
       <h1 className="chico">Hel-oTImE</h1>
       
       <audio style={{backgroundColor:"blueviolet", borderRadius:"15%"}} className="chic" controls>
-        <source src="" type="audio/mp3" />
+        <source src="./audio/juice" type="audio/mp3" />
         <source src="" type="audio/mpeg" />
         </audio>
 
